@@ -1,6 +1,6 @@
 # COVID-Portfolio-Project
 
-This Repository holds an analysis on Covid Data. 
+This Repository holds an analysis on Covid Data.<br />
 I've implemented data exploration using SQL and data visualization using Tableu.
 
 ### Skills used
